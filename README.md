@@ -13,10 +13,14 @@
 <br />
 
 ## ✅ Commit 규칙
-`[WEEK??] 작성자 : 내용`
+🔥 commit 하기 전 Sync fork & git pull 꼭 하기 🔥
+1. Github repository에서 Sync fork 하기
+2. 터미널에서 `git stash`
+3. `git pull --rebase`
+4. `git stash pop`
+5. `git commit -m "[WEEK??] 작성자 : 내용"`
 - `ex) [WEEK00] 김세진 : 디자인 패턴과 프로그래밍 패러다임`
 - `ex) [WEEK02] 이담비 : 네트워크의 기초`
-- 🔥 commit 하기 전 Sync fork & git pull 꼭 하기 🔥
 
 
 <br />
