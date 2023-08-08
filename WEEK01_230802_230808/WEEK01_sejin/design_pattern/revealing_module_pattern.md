@@ -1,6 +1,4 @@
-# 7. 노출모듈 패턴
 
-생성일: August 8, 2023 10:17 AM
 
 # 노출모듈 패턴(revealing module pattern)
 
